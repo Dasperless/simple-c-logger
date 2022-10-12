@@ -20,7 +20,7 @@
 #define LOG_WARN(fmt, ...)  logger_log(WARNING , __FILENAME__, __LINE__, fmt, ##__VA_ARGS__)
 #define LOG_ERROR(fmt, ...) logger_log(ERROR, __FILENAME__, __LINE__, fmt, ##__VA_ARGS__)
 
-#define MAXFILENAME = 255
+#define MAXFILENAME 255
 
 //loglevel enum
 typedef enum{
