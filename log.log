@@ -1,2 +1,8 @@
-2022-10-12 18:0:48  
-[INFO]: main.c:5: Hello World!
+2022-10-13 5:51:45  
+[INFO]: example.c:5: Hello world!
+2022-10-13 5:51:45  
+[DEBUG]: example.c:6: Hello world this is a debug message! [example.c]: 6
+2022-10-13 5:51:45  
+[ERROR]: example.c:7: Hello world this is an error 404!
+2022-10-13 5:51:45  
+[WARNING]: example.c:8: Hello world this is a warning!
